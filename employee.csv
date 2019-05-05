@@ -1,0 +1,10 @@
+ID,emp_id,last_name,first_name,start_date,active,type,title,base,client,manager,team,discipline
+1,5675147,Abousalem,Ayman Ahmed,1/18/2016 0:00,Yes,FTC,Mechanical Designer,Center,266644 - Siemens Canada Limited,Gabriel Taraboulsi,DVV,Design
+2,6025114,Espinosa,Jorge Alberto Aguilar,4/10/2017 0:00,Yes,FTC,Manufacturing Engineer,Center,266644 - Siemens Canada Limited,Allen Ennis,MMG,MFG
+3,5856500,Al Zoobi,Al Barra,7/17/2017 0:00,No,FTC,Quality Engineer,On-site,266644 - Siemens Canada Limited,Gabriel Taraboulsi,DVV,Quality
+5,5380610,Alguire,Joshua,9/25/2017 0:00,Yes,Internal/Billable,Project Lead - Embedded System,Center,308501 - Caterpillar (EASi Center),Malak Sedra,SES,NULL
+6,6098446,Altekar,Charu,7/3/2017 0:00,Yes,FTC,Product Definition Specialist,Center,266644 - Siemens Canada Limited,Joshua Senechal,PDE,PDE
+7,6037624,Anderson,Stephen,4/26/2017 0:00,Yes,Incorporated Non-Billable,Senior Consultant - Quality Management,Center,NULL,Malak Sedra,NULL,NULL
+8,5787057,Badescu,Ovidiu,6/20/2016 0:00,Yes,Incorporated,Tech Lead - Sr. SME Mechanical Integrity - Stress,Center,266644 - Siemens Canada Limited,Mihai Jivan,AMI,MI
+9,6012380,Badran,Nizar,3/27/2017 0:00,No,Internal/Business Support,Team Lead - Project Controls Group,Center,NULL,Malak Sedra,NULL,NULL
+10,6150851,Bailey,Boyd,8/17/2017 0:00,Yes,PPC,Mechanical Designer,On-site,306742 - Hutchinson Aerospace,Gabriel Taraboulsi,NULL,NULL
