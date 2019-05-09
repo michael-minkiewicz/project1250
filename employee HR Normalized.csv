@@ -1,0 +1,10 @@
+ID,emp_id,last_name,first_name,Status_ID,type,base_ID,client,manager,Team_ID
+1,5675147,Abousalem,Ayman Ahmed,1,1,1,266644 - Siemens Canada Limited,Gabriel Taraboulsi,1
+2,6025114,Espinosa,Jorge Alberto Aguilar,1,1,1,266644 - Siemens Canada Limited,Allen Ennis,2
+3,5856500,Al Zoobi,Al Barra,2,1,2,266644 - Siemens Canada Limited,Gabriel Taraboulsi,1
+5,5380610,Alguire,Joshua,1,2,1,308501 - Caterpillar (EASi Center),Malak Sedra,3
+6,6098446,Altekar,Charu,1,1,1,266644 - Siemens Canada Limited,Joshua Senechal,4
+7,6037624,Anderson,Stephen,1,3,1,NULL,Malak Sedra,5
+8,5787057,Badescu,Ovidiu,1,4,1,266644 - Siemens Canada Limited,Mihai Jivan,6
+9,6012380,Badran,Nizar,2,5,1,NULL,Malak Sedra,5
+10,6150851,Bailey,Boyd,1,6,2,306742 - Hutchinson Aerospace,Gabriel Taraboulsi,5
